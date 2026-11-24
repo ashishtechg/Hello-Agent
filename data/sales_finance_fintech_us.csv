@@ -1,0 +1,16 @@
+Term ID,Segment Type,Category,Detail Text,Variable Rate,Fee Amount
+SF-201,Enterprise Banking,Interchange Revenue Share,"Enterprise payment processing contracts include a standard platform take-rate of 0.15% to 0.35% on net settled ACH and card volume, varying by monthly transaction tiers.",Yes,0
+SF-202,Mid-Market Fintech,Annual Platform Minimum,"Mid-market SaaS licensing agreements carry a non-refundable annual minimum commitment fee of $36,000, billed upfront upon contract execution.",No,36000
+SF-203,Enterprise Banking,Discount Approval Threshold,Account Executives may offer up to a 10% list-price discount autonomously; discounts between 11% and 25% require Deal Desk and VP of Sales Finance sign-off.,No,0
+SF-204,SMB Embedded,AE Commission Accelerator,"Account Executives earn a base commission rate of 8% on Net New ARR up to 100% quota attainment, accelerating to 14% on bookings exceeding annual quota.",Yes,0
+SF-205,Enterprise Banking,Late Invoice Interest Penalty,Client invoices unpaid beyond Net 30 payment terms incur a 1.5% monthly late payment finance charge unless a formal dispute is logged within 10 days.,Yes,0
+SF-206,Mid-Market Fintech,Implementation & Sandbox Fee,"Dedicated API sandbox provisioning and white-glove technical onboarding incur a one-time flat setup fee of $5,000 waived only for 3-year multi-year commitments.",No,5000
+SF-207,SMB Embedded,Early Churn Clawback Rule,"If a newly signed SMB client cancels or defaults within the first 90 days of contract activation, 100% of the paid AE and SDR commission is clawed back in the next payout cycle.",No,0
+SF-208,Enterprise Banking,Multi-Year Billing Escalator,Multi-year enterprise contracts include an automatic 5% annual price uplift at each renewal anniversary unless capped via a CFO-approved rate-lock addendum.,Yes,0
+SF-209,Channel Partners,Referral Revenue Bounty,Registered system integrator partners receive a one-time 12% bounty on Year-1 collected subscription fees for qualified leads closed within 180 days of registration.,Yes,0
+SF-210,Mid-Market Fintech,Cross-Border FX Spread Margin,Multi-currency treasury settlements generate a dynamic FX spread revenue margin ranging from 0.40% to 0.85% above the interbank mid-market spot rate.,Yes,0
+SF-211,Enterprise Banking,Custom SLA Credit Liability,Sales contracts may not promise uptime SLA penalty credits exceeding 10% of monthly recurring fees without prior Revenue Recognition team approval.,No,0
+SF-212,SMB Embedded,Quarterly SPIFF Bonus,"Account Executives closing at least 4 net-new payroll API deals within Q1 or Q2 receive a flat $2,500 quarterly SPIFF bonus paid in the month-end commission run.",No,2500
+SF-213,Channel Partners,Co-Marketing MDF Allocation,"Premier tier fintech partners qualify for up to $10,000 per half-year in Market Development Funds upon submitting verified campaign ROI receipts.",No,10000
+SF-214,Mid-Market Fintech,Overage API Call Billing,API call volume exceeding contracted monthly tiers is billed in arrears at $0.002 per incremental call on the subsequent monthly cycle.,Yes,0
+SF-215,Enterprise Banking,ASC 606 Revenue Deferral,Bundled professional services and custom compliance audits must be carved out from SaaS license ARR and recognized ratably over delivery milestones under ASC 606.,No,0
