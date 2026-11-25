@@ -18,3 +18,10 @@ implementation is maintained in the backend and frontend directories:
 The architecture guide describes how the current code works, including the
 request flow, CSV matching, agent and model responsibilities, API contract,
 configuration, and practical limitations.
+
+## Continuous integration
+
+GitHub Actions runs backend tests, frontend tests, Python compile checks, and
+local Markdown link validation on pushes and pull requests targeting `dev` or
+`main`. The Markdown check covers repository documentation, including
+`docs/` and `Enterprise/`.
