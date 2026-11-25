@@ -3,3 +3,4 @@
 __pycache__/
 .pytest_cache/
 *.py[cod]
+Enterprise/HelloAI/enterprise-reference-notes.md
